@@ -79,5 +79,5 @@ Repository
 • Improve lyrics-terminal<br>
 • Publish more projects<br>
 • Contribute to open source<br>
-• Learn enough to understand the code I write instead of just making it work
+• Understand the code I write instead of just making it work
 </p>
