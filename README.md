@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" width="100%" alt="banner" />
+<img src="./assets/Banner_roxo.png" width="100%" alt="banner" />
 
 ## About Me
 
@@ -15,7 +15,7 @@ I enjoy Linux, terminal applications, open source software and building projects
 * Learning software development through real projects
 
 ## Featured Project
-
+<img src="./assets/Banner_lyrics.png" width="100%" alt="banner" />
 ### lyrics-terminal
 
 A Linux terminal application that displays synchronized Spotify lyrics directly inside the terminal.
