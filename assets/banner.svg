@@ -1,0 +1,16 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="28" fill="#0d1117"/>
+  <rect x="35" y="35" width="1130" height="250" rx="18" fill="#161b22" stroke="#30363d"/>
+  
+  <circle cx="70" cy="65" r="8" fill="#ff5f56"/>
+  <circle cx="95" cy="65" r="8" fill="#ffbd2e"/>
+  <circle cx="120" cy="65" r="8" fill="#27c93f"/>
+
+  <text x="65" y="125" fill="#58a6ff" font-family="monospace" font-size="26">felipe@github:~$</text>
+  <text x="340" y="125" fill="#c9d1d9" font-family="monospace" font-size="26">whoami</text>
+
+  <text x="65" y="175" fill="#f0f6fc" font-family="monospace" font-size="38" font-weight="700">Felipe Carvalho</text>
+  <text x="65" y="220" fill="#8b949e" font-family="monospace" font-size="24">student • linux • terminal apps • open source</text>
+
+  <text x="65" y="265" fill="#7ee787" font-family="monospace" font-size="22">currently building: lyrics-terminal</text>
+</svg>
