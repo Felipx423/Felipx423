@@ -16,7 +16,8 @@ I enjoy Linux, terminal applications, open source software and building projects
 
 ## Featured Project
 <img src="./assets/Banner_lyrics.png" width="100%" alt="banner" />
-### lyrics-terminal
+
+<h3>lyrics-terminal</h3>
 
 A Linux terminal application that displays synchronized Spotify lyrics directly inside the terminal.
 
